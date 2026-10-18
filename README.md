@@ -5,6 +5,12 @@
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=VLADISLAV+MOROZOV+%2F%2F+MOROZ314;Full-Stack+Engineer+%26+Web+Product+Builder;E-Commerce+%E2%80%A2+High-Load+Web+Apps+%E2%80%A2+Telegram+Bots" alt="Typing SVG" />
   </a>
 
+
+
+
+
+  
+
   <p align="center">
     <a href="https://moroz314.ru"><img src="https://img.shields.io/badge/🌐_Портфолио-moroz314.ru-6366F1?style=for-the-badge&logoColor=white" /></a>
     <a href="https://alduin-workshop.ru"><img src="https://img.shields.io/badge/🔥_Live_Production-alduin--workshop.ru-10B981?style=for-the-badge" /></a>
