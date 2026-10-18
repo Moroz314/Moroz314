@@ -1,16 +1,39 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+  <!-- Анимированный заголовок (Typing SVG) -->
+  <a href="https://moroz314.ru">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=90&lines=VLADISLAV+MOROZOV+%2F%2F+MOROZ314;Full-Stack+Engineer+%26+Web+Product+Builder;E-Commerce+%E2%80%A2+High-Load+Web+Apps+%E2%80%A2+Telegram+Bots" alt="Typing SVG" />
+  </a>
 
-Currently, two official plugins are available:
+  <p align="center">
+    <a href="https://moroz314.ru"><img src="https://img.shields.io/badge/🌐_Портфолио-moroz314.ru-6366F1?style=for-the-badge&logoColor=white" /></a>
+    <a href="https://alduin-workshop.ru"><img src="https://img.shields.io/badge/🔥_Live_Production-alduin--workshop.ru-10B981?style=for-the-badge" /></a>
+    <a href="mailto:vladmorozov2020@mail.ru"><img src="https://img.shields.io/badge/📩_Связаться-vladmorozov2020%40mail.ru-F43F5E?style=for-the-badge" /></a>
+  </p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  <img src="https://komarev.com/ghpvc/?username=Moroz314&label=PROFILE+VIEWS&color=6366f1&style=flat-square" alt="views" />
+  <img src="https://img.shields.io/badge/Location-Saint_Petersburg,_RU-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Education-SPbSUT_(ИКСС)-1e293b?style=flat-square" />
+  <img src="https://img.shields.io/badge/Status-Open_for_Commercial_Projects-10b981?style=flat-square" />
 
-## React Compiler
+</div>
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+---
 
-## Expanding the ESLint configuration
+### ⚡ System Manifesto (`whoami`)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```yaml
+developer:
+  name: "Владислав Морозов"
+  role: "Full-Stack Developer (Frontend + Backend + DevOps)"
+  location: "Санкт-Петербург (СПбГУТ им. Бонч-Бруевича, ИКСС)"
+  
+business_focus:
+  - "Разработка интернет-магазинов и веб-сервисов под ключ (от дизайна до деплоя на VPS)"
+  - "Платежные и логистические интеграции: ЮKassa (СБП/Эквайринг), API СДЭК, 1С/CRM"
+  - "Собственные админ-панели управления бизнесом без абонентской платы конструкторам"
+  - "Разработка сложных Telegram-ботов и AI-ассистентов для автоматизации"
+
+security_&_ctf:
+  platform: "TryHackMe (Handle: moroz314)"
+  mindset: "Пишу код с фокусом на безопасность, защиту API и чистую архитектуру"
